@@ -10,7 +10,7 @@ def home():
     <a href="/quemsomos"><p>Quem somos</p></a>
     <a href=""><p>Portifolio</p></a>
     <a href=""><p>Serviços</p></a>
-    <a href="/contato"><p>Acesse meu WhatsApp</p></a>
+    <a href="/contato"><p>Acesse o meu WhatsApp</p></a>
 """
 
 @app.route("/quemsomos")
